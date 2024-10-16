@@ -70,6 +70,40 @@ about_content: | # this will include new lines to allow paragraphs
   자동화된 배포 시스템을 설계하고 팀과 함께 성장하는 개발 문화를 만들어가고자 합니다.
 
 content:
+  - title: Skills
+    layout: list
+    content:
+      - layout: left
+        title: Backend
+        description: |
+          **Languages**: Java, Node.js  
+          **Frameworks**: Spring Boot, Express.js, JSP  
+          **Databases**: MySQL, Oracle, MongoDB, MariaDB  
+          **Messaging**: RabbitMQ  
+
+      - layout: left
+        title: Frontend
+        description: |
+          **Languages**: JavaScript, TypeScript  
+          **Frameworks & Libraries**: Vue.js, React.js, jQuery  
+          **Technologies**: HTML5, CSS3, EJS (Embedded JavaScript)  
+
+      - layout: left
+        title: DevOps & Infrastructure
+        description: |
+          **Tools**: Jenkins, Git, GitHub Actions, Docker, Docker Compose  
+          **Cloud**: AWS (EC2, S3, RDS, IAM, VPC, CloudFront), AWS ECS  
+          **Web Servers**: Nginx, Apache Tomcat  
+          **CI/CD**: Jenkins, GitHub Actions  
+
+      - layout: left
+        title: Others
+        description: |
+          **Documentation & APIs**: Swagger, RESTful API  
+          **Monitoring**: Spring Boot Actuator, CloudWatch  
+          **Version Control**: Git, GitHub  
+          **Issue Tracking**: Redmine
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
