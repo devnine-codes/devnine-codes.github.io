@@ -233,15 +233,15 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
-#  - title: A Little More About Me
+      - layout: left
+        title: 유한대학교
+        sub_title: 컴퓨터소프트웨어과
+        caption: 2013 - 2015
+        description: |
+          컴퓨터 소프트웨어 개발의 기초를 학습하며, 다양한 실습 프로젝트를 통해 개발 역량을 강화했습니다.  
+          Java와 C 언어를 중심으로 시스템 설계 및 알고리즘 개발을 경험하였으며, 팀 프로젝트를 통해 협업 능력을 기르기도 했습니다.  
+
+  #  - title: A Little More About Me
 #    layout: text
 #    content: | # this will include new lines to allow paragraphs
 #      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
