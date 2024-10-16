@@ -34,10 +34,10 @@ github_username:  devnine-codes
 #googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+#additional_links:
+#- title: Link name
+#  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -52,9 +52,22 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  백엔드 개발자 이동현입니다.  
+  저는 다양한 산업에서 **AI 콜센터 시스템**과 **스마트워크 솔루션**을 포함한 여러 분야에서  
+  Spring Boot와 Node.js를 기반으로 API와 대규모 데이터를 처리하는 시스템을 설계하고 운영해왔습니다.  
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+  특히, 외부 고객사와의 전산 시스템 연동 프로젝트에서는 데이터를 실시간으로 처리하며,  
+  고객사의 전산에 등록, 조회, 수정 기능을 제공했습니다. 이를 통해 **업무 자동화와 효율성 향상**을 달성하며,  
+  **매출 30% 증가**라는 성과를 이끌어냈습니다. 자세한 내용은 [관련 기사](https://www.newsprime.co.kr/news/article/?no=647335)에서 확인하실 수 있습니다.  
+
+  또한 **AWS, Jenkins, Docker**를 활용한 DevOps 환경에서 **CI/CD 파이프라인**을 구축하고,  
+  비동기 처리와 데이터베이스 최적화로 **응답 속도 30% 단축**을 달성했습니다.  
+
+  최근에는 **스마트워크센터** 프로젝트에서 원격 근무 효율성을 높이는 시스템을 개발하며,  
+  일-가정 양립 지원과 협업 생산성을 향상시켰습니다.  
+
+  앞으로는 클라우드 네이티브 애플리케이션 개발에 주력하며,  
+  자동화된 배포 시스템을 설계하고 팀과 함께 성장하는 개발 문화를 만들어가고자 합니다.
 
 content:
   - title: Projects # Title for the section
