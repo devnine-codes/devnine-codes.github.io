@@ -241,12 +241,17 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-  - title: A Little More About Me
+#  - title: A Little More About Me
+#    layout: text
+#    content: | # this will include new lines to allow paragraphs
+#      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+#
+#      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  - title: Have Any Questions?
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+    content: |
+      저에 대해 궁금한 점이 있다면 언제든지 질문해 주세요.  
+      프로젝트나 경험에 대한 자세한 정보가 필요하다면 부담없이 연락하셔도 됩니다!
 
 # Footer
 footer_show_references: true
