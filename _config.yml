@@ -54,7 +54,7 @@ about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   백엔드 개발자 이동현입니다.  
   저는 5년간 다양한 산업에서 **AI 콜센터 시스템**과 **스마트워크 솔루션**을 포함한 여러 분야에서  
-  Java Spring Boot와 Node.js를 기반으로 API와 대규모 데이터를 처리하는 시스템을 설계하고 운영해왔습니다.  
+  Java Spring Boot와 Node.js를 기반으로 API와 대규모 데이터를 처리하는 시스템을 개발하고 운영해왔습니다.  
 
   특히, 외부 고객사와의 전산 시스템 연동 프로젝트에서는 데이터를 실시간으로 처리하며,  
   고객사의 전산에 등록, 조회, 수정 기능을 제공했습니다. 이를 통해 **업무 자동화와 효율성 향상**을 달성하며,  
