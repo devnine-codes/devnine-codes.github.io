@@ -77,16 +77,16 @@ content:
         title: Backend
         description: |
           **Languages**: Java, Node.js  
-          **Frameworks**: Spring Boot, Express.js, JSP  
-          **Databases**: MySQL, Oracle, MongoDB, MariaDB  
-          **Messaging**: RabbitMQ  
+          **Frameworks**: Spring, Spring Boot, Express.js  
+          **Databases**: MySQL, MariaDB, Oracle, Tibero, PostgreSQL, MongoDB  
+          **Messaging**: RabbitMQ
 
       - layout: left
         title: Frontend
         description: |
           **Languages**: JavaScript, TypeScript  
           **Frameworks & Libraries**: Vue.js, React.js, jQuery  
-          **Technologies**: HTML5, CSS3, EJS (Embedded JavaScript)  
+          **Technologies**: HTML5, CSS3, JSP
 
       - layout: left
         title: DevOps & Infrastructure
@@ -97,12 +97,21 @@ content:
           **CI/CD**: Jenkins, GitHub Actions  
 
       - layout: left
+        title: DevOps & Infrastructure
+        description: |
+          **CI/CD Tools**: Jenkins, GitHub Actions  
+          **Containers**: Docker, Docker Compose  
+          **Cloud Services**: AWS (EC2, S3, RDS, IAM, VPC, CloudFront, ECS)  
+          **Web Servers**: Nginx, Apache Tomcat  
+
+      - layout: left
         title: Others
         description: |
           **Documentation & APIs**: Swagger, RESTful API  
-          **Monitoring**: Spring Boot Actuator, CloudWatch  
+          **Monitoring & Logging**: Spring Boot Actuator, AWS CloudWatch  
           **Version Control**: Git, GitHub  
-          **Issue Tracking**: Redmine
+          **Issue Tracking**: Redmine   
+          **Collaboration Tools**: Slack, TeamViewer
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
