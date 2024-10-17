@@ -170,10 +170,30 @@ content:
         description: |
           **기간**: 2023.02 - 2023.04  
           **주요 역할**: 유물 및 작품 관리 CMS 시스템 설계, 방문자 통계 기능 개발, 공공데이터 연동  
-          **기술 스택**: Node.js, MongoDB, AWS, nginx  
+          **기술 스택**: Node.js, MongoDB, AWS, Nginx  
 
           공공데이터 API와 연동된 CMS 시스템을 구성해 유물과 작품을 관리  
           EJS 템플릿을 활용해 동적 웹 페이지를 구현하고 AWS 인프라로 안정적인 서비스 배포를 지원
+
+  - title: Open Source Contributions
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak
+        title: OAuth 2.0 및 JWT 기반 인증 시스템 개발
+#        link: https://workcenter.ploonet.com
+#        link_text: https://workcenter.ploonet.com
+        additional_links:
+          - title: Github Repository
+            icon: fab fa-github
+            url: https://github.com/devnine-codes/spring-oauth-server
+        quote: >
+          OAuth 2.0과 JWT를 활용한 안전하고 확장 가능한 사용자 인증 시스템 개발
+        description: |
+          기존의 사용자 인증 시스템은 보안성과 확장성에 한계가 있었고, 특히 세션 기반 인증에서 발생하는 서버 부하 문제로 인해 개발   
+          
+          OAuth 2.0 인증 방식을 기반으로, JWT 토큰을 사용한 사용자 인증 시스템을 설계 및 구현  
+          로그인 시 JWT 발급, 로그아웃 시 토큰을 블랙리스트 처리하여 **시스템의 보안성을 강화**
 
   - title: Experience
     layout: list
@@ -217,7 +237,7 @@ content:
           - Node.js와 MongoDB 기반의 유연한 데이터 처리  
 
           **서비스 운영 환경 구성**  
-          - AWS와 nginx 기반의 안정적인 서비스 배포 및 운영
+          - AWS와 Nginx 기반의 안정적인 서비스 배포 및 운영
 
       - layout: left
         border: strong
@@ -235,9 +255,13 @@ content:
           **서버 관리 및 보안 강화**  
           - Apache와 Tomcat 서버 최적화 및 보안 설정  
           - SSL 인증서 적용으로 **보안 강화** 및 안정성 확보
-          
+
+          **공공기관 16개 유지보수**  
+          - 공공기관 16곳의 그룹웨어와 전자결재 시스템 유지보수 및 운영 지원  
+          - 시스템 안정성을 보장하며, 사용자 요구 사항에 따른 커스터마이징 작업 수행
+
           **특진**  
-          - 성과 기반으로 빠른 승진을 이루어 조직 내 영향력 확대  
+          - 성과 기반으로 빠른 승진을 이루어 조직 내 영향력 확대
 
   - title: Education
     layout: list
