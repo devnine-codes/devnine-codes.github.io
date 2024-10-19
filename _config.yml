@@ -175,25 +175,25 @@ content:
           공공데이터 API와 연동된 CMS 시스템을 구성해 유물과 작품을 관리  
           EJS 템플릿을 활용해 동적 웹 페이지를 구현하고 AWS 인프라로 안정적인 서비스 배포를 지원
 
-  - title: Open Source Contributions
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak
-        title: OAuth 2.0 및 JWT 기반 인증 시스템 개발
-#        link: https://workcenter.ploonet.com
-#        link_text: https://workcenter.ploonet.com
-        additional_links:
-          - title: Github Repository
-            icon: fab fa-github
-            url: https://github.com/devnine-codes/spring-oauth-server
-        quote: >
-          OAuth 2.0과 JWT를 활용한 안전하고 확장 가능한 사용자 인증 시스템 개발
-        description: |
-          기존의 사용자 인증 시스템은 보안성과 확장성에 한계가 있었고, 특히 세션 기반 인증에서 발생하는 서버 부하 문제로 인해 개발   
-          
-          OAuth 2.0 인증 방식을 기반으로, JWT 토큰을 사용한 사용자 인증 시스템을 설계 및 구현  
-          로그인 시 JWT 발급, 로그아웃 시 토큰을 블랙리스트 처리하여 **시스템의 보안성을 강화**
+#  - title: Open Source Contributions
+#    layout: list # Type of content section (list/text)
+#    content:
+#      - layout: left
+#        border: weak
+#        title: OAuth 2.0 및 JWT 기반 인증 시스템 개발
+##        link: https://workcenter.ploonet.com
+##        link_text: https://workcenter.ploonet.com
+#        additional_links:
+#          - title: Github Repository
+#            icon: fab fa-github
+#            url: https://github.com/devnine-codes/spring-oauth-server
+#        quote: >
+#          OAuth 2.0과 JWT를 활용한 안전하고 확장 가능한 사용자 인증 시스템 개발
+#        description: |
+#          기존의 사용자 인증 시스템은 보안성과 확장성에 한계가 있었고, 특히 세션 기반 인증에서 발생하는 서버 부하 문제로 인해 개발
+#
+#          OAuth 2.0 인증 방식을 기반으로, JWT 토큰을 사용한 사용자 인증 시스템을 설계 및 구현
+#          로그인 시 JWT 발급, 로그아웃 시 토큰을 블랙리스트 처리하여 **시스템의 보안성을 강화**
 
   - title: Experience
     layout: list
