@@ -313,3 +313,5 @@ exclude : [
   "scripts/",
   "docker-compose.yml",
   ]
+
+google_analytics: G-M7GQS8EMLK
