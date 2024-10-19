@@ -108,7 +108,7 @@ content:
         title: Others
         description: |
           **Documentation & APIs**: Swagger, RESTful API  
-          **Monitoring & Logging**: Spring Boot Actuator, AWS CloudWatch  
+          **Monitoring & Logging**: Spring Boot Actuator, AWS CloudWatch, Google Analytics  
           **Version Control**: Git, GitHub  
           **Issue Tracking**: Redmine   
           **Collaboration Tools**: Slack, TeamViewer
