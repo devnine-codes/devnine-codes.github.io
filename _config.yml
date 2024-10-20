@@ -180,7 +180,7 @@ content:
     content:
       - layout: left
         border: weak
-        title: TubeSpot<br>개인화된 유튜브<br>(1인)
+        title: TubeSpot<br>개인화된 유튜브<br>
         link: https://github.com/devnine-codes/tube-spot
         link_text: https://github.com/devnine-codes/tube-spot
         quote: >
