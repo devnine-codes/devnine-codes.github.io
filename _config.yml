@@ -188,8 +188,9 @@ content:
         description: |
           **기술 스택**: Node.js, React.js TypeScript, Google Cloud Console
           
-          내 입맛에 맞게 유튜브 영상을 시청하려고 만든 웹으로, 로그인 없이 Cookie를 이용해 정보를 저장함.
+          Youtube Data API를 이용해 내 입맛에 맞게 유튜브 영상을 시청하려고 만든 웹으로, 로그인 없이 Cookie를 이용해 정보를 저장함.
           추후 지인들의 피드백을 받아 UI/UX를 수정 반영할 예정.
+          (무료 할당량이 너무 적어서 중복 요청에 대해 캐싱 적용 -ㅅ -;;)
 
     #  - title: Open Source Contributions
 #    layout: list # Type of content section (list/text)
