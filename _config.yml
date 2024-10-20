@@ -175,7 +175,23 @@ content:
           공공데이터 API와 연동된 CMS 시스템을 구성해 유물과 작품을 관리  
           EJS 템플릿을 활용해 동적 웹 페이지를 구현하고 AWS 인프라로 안정적인 서비스 배포를 지원
 
-#  - title: Open Source Contributions
+  - title: Personal Projects
+    layout: list
+    content:
+      - layout: left
+        border: weak
+        title: TubeSpot<br>개인화된 유튜브<br>(1인)
+        link: https://github.com/devnine-codes/tube-spot
+        link_text: https://github.com/devnine-codes/tube-spot
+        quote: >
+          Node.js와 React.js를 활용한 맞춤형 유튜브 페이지 개발
+        description: |
+          **기술 스택**: Node.js, React.js TypeScript, Google Cloud Console
+          
+          내 입맛에 맞게 유튜브 영상을 시청하려고 만든 웹으로, 로그인 없이 Cookie를 이용해 정보를 저장함.
+          추후 지인들의 피드백을 받아 UI/UX를 수정 반영할 예정.
+
+    #  - title: Open Source Contributions
 #    layout: list # Type of content section (list/text)
 #    content:
 #      - layout: left
