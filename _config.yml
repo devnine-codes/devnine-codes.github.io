@@ -78,6 +78,7 @@ content:
         description: |
           **Languages**: Java, Node.js  
           **Frameworks**: Spring, Spring Boot, Express.js  
+          **Technologies**: JSP  
           **Databases**: MySQL, MariaDB, Oracle, Tibero, PostgreSQL, MongoDB  
           **Messaging**: RabbitMQ
 
@@ -86,15 +87,7 @@ content:
         description: |
           **Languages**: JavaScript, TypeScript  
           **Frameworks & Libraries**: Vue.js, React.js, jQuery  
-          **Technologies**: HTML5, CSS3, JSP
-
-      - layout: left
-        title: DevOps & Infrastructure
-        description: |
-          **Tools**: Jenkins, Git, GitHub Actions, Docker, Docker Compose  
-          **Cloud**: AWS (EC2, S3, RDS, IAM, VPC, CloudFront), AWS ECS  
-          **Web Servers**: Nginx, Apache Tomcat  
-          **CI/CD**: Jenkins, GitHub Actions  
+          **Technologies**: HTML5, CSS3
 
       - layout: left
         title: DevOps & Infrastructure
