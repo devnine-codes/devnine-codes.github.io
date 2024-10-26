@@ -103,6 +103,19 @@ content:
     content:
       - layout: left
         border: weak
+        title: 마이크로서비스 아키텍처 AWS ECS 배포 오케스트레이션 적용
+        quote: >
+          AWS ECS를 통한 자동화된 배포 파이프라인 구축 및 운영 효율성 최적화
+        description: |
+          **기간**: 2024.06 - 2024.07  
+          **주요 역할**: 각 서비스의 의존성 체크 및 담당자 일정조율, 블루/그린 배포 무중단 배포 환경 구축   
+          **기술 스택**: Github Action, AWS ECS, AWS CloudWatch, Docker Compose, Spring Actuator, Nginx  
+
+          블루/그린 배포 전략으로 무중단 배포 환경 구축으로 서비스 가용성 99.9% 유지   
+          배포 오류 30% 감소, 운영 비용 20% 절감  
+
+      - layout: left
+        border: weak
         title: API Gateway 구축 및 마이크로서비스 통합
         #link:
         #link_text:
@@ -113,7 +126,7 @@ content:
           **주요 역할**: API Gateway 개발, 로드 밸런싱 적용, 트래픽 관리  
           **기술 스택**: Node.js, Express.js, Nginx, Docker, JWT, OAuth2, Redis
           
-          각 마이크로서비스 간의 **통신 효율 40% 향상**   
+          각 마이크로서비스 간의 **통신 효율 37% 향상**   
           **Redis**를 통한 Rate Limiting과 **Nginx**로 **트래픽 관리** 및 로드 밸런싱을 통해 서비스 중단 없이 **대규모 트래픽을 처리**   
           SSL 적용으로 **보안성 향상**
 
