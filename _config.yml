@@ -103,7 +103,7 @@ content:
     content:
       - layout: left
         border: weak
-        title: AWS ECS 기반 마이크로서비스 배포 자동화
+        title: AWS ECS 오케스트레이션, 배포 자동화
         quote: >
           AWS ECS를 통한 자동화된 배포 파이프라인 구축 및 운영 효율성 최적화
         description: |
