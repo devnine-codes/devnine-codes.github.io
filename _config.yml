@@ -243,6 +243,17 @@ content:
     content:
       - layout: left
         border: strong
+        title: 프리랜서
+        #sub_title: 대리
+        caption: 2024.12 ~ 현재
+        #link:
+        quote: >
+          Java Backend 위주의 개발자로서 프리랜서 활동 중
+        description: |
+          2024.12 ~ 2025.06 **현대카드/커머셜 OTP 인증시스템 재구축**
+
+      - layout: left
+        border: strong
         title: 주식회사 플루닛
         sub_title: 주임연구원
         caption: 2023.07 - 2024.08
