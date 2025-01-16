@@ -85,7 +85,7 @@ content:
           **CI/CD Tools**: Jenkins, GitHub Actions  
           **Containers**: Docker, Docker Compose  
           **Cloud Services**: AWS (EC2, S3, RDS, IAM, VPC, CloudFront, ECS)  
-          **Web Servers**: Nginx, Apache Tomcat  
+          **Web & Application Servers**: Nginx, Jeus, Apache Tomcat  
 
       - layout: left
         title: Others
