@@ -52,12 +52,16 @@ github_username:  devnine-codes
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  백엔드 개발자 이동현입니다.  
+  안녕하세요. 백엔드 개발자 이동현입니다.  
   저는 6년간 Java, Spring Boot와 Node.js를 기반으로 API와 대규모 데이터를 처리하는 시스템을 개발하고 운영해왔습니다.  
   **AI 콜센터 시스템**을 통해 외부 고객사의 전산 시스템과 연동하여 **상담 업무 자동화**를 구현하고 **업무 효율성 향상**과 **매출 30% 증가**라는 성과를 달성했습니다.  
   **서비스 광고 이후 트래픽이 200% 증가**한 상황에서 **분산 캐시**와 **비동기 작업 처리**를 통해 **시스템 확장성**을 극대화하고, **응답 시간을 30% 단축**하며 **고가용성 인프라**를 유지하여 **대규모 트래픽 상황**에서도 시스템의 안정성을 확보했습니다.
   
   저는 다양한 산업 분야에 도전해왔으며 최근에는 프리랜서로 활동하여 더욱 다양한 환경에서 근무하며 어떠한 환경에서도 빠르게 적응하고 **팀원과의 원활한 의사소통**과 **문제 해결** 역량을 극대화하여 더 나은 개발자로 성장을 목표로 하고 있습니다.
+
+  퇴근 후에는 **기술적 호기심과 실전 감각을 유지하기 위해 다양한 사이드 프로젝트를 기획·개발**하고 있으며,  
+  현재까지 **목표 인증 플랫폼(데어존), 심플한 글로벌 MMO 게임(floatland) 등 여러 서비스를 직접 운영**하고 있습니다.  
+  기획부터 개발, 배포, 운영까지 전 과정을 직접 수행하며 **사용자 중심의 사고와 실행력**을 지속적으로 키워가고 있습니다. 
 
 content:
   - title: Skills
@@ -105,7 +109,7 @@ content:
         quote: >
           레거시 OTP 시스템의 기능 개선, UI/UX 고도화, 사용자 인증 체계 강화
         description: |
-          **기간**: 2024.12 ~ 2025.06  
+          **기간**: 2024.12 ~ 2025.08  
           **주요 역할**: 기존 Struts Framework 기반 코드를 분석하여 JDK 업그레이드 및 Spring Boot로 전환   
           Spring Security와 Spring LDAP를 활용한 로그인 및 인증 기능 구현, 사용자 및 권한 관리 시스템을 설계 및 구축   
           **기술 스택**: Java, Spring Boot, Spring MVC, Spring Security, Spring LDAP, MyBatis, JSP, Oracle
@@ -203,6 +207,19 @@ content:
     content:
       - layout: left
         border: weak
+        title: FloatLand<br>글로벌 멀티플레이어 열기구 시뮬레이션 게임 (2025.07)
+        link: https://floatland.devnine.co/
+        link_text: https://floatland.devnine.co/
+        quote: >
+          실시간 WebSocket 기반의 3D 멀티플레이어 게임
+        description: |
+          **기술 스택**: FastAPI, WebSocket, Three.js, Docker, Nginx, EC2
+
+          글로벌 가상 맵 위에서 사용자들이 열기구를 조작하며 실시간으로 함께 떠다니는 멀티플레이어 시뮬레이션 게임.  
+          WebSocket을 통해 각 유저의 위치 정보를 실시간으로 동기화하며, Three.js를 이용해 3D 상호작용 환경을 구현.
+
+      - layout: left
+        border: weak
         title: DareZone<br>목표 인증 기반 커뮤니티 플랫폼(2025.03 ~ 현재)
         link: https://darezone.kr
         link_text: https://darezone.kr
@@ -212,7 +229,7 @@ content:
           **기술 스택**: NestJS, Next.js, PostgreSQL, Redis, Docker, AWS (EC2, S3), TypeScript
 
           도전 목표를 생성하고 인증을 통해 성장 리워드를 획득하는 플랫폼.  
-          사용자 인증(P2P), 포인트 시스템, 커뮤니티 기능, 댓글, 좋아요/싫어요, 레벨업 등 다양한 기능 포함.  
+          사용자 인증, AI질문 답변, 포인트 시스템, 커뮤니티 기능, 레벨업 등 다양한 기능 포함.  
           백엔드와 프론트엔드를 모노레포 구조로 통합 관리하며, JWT 기반 인증 및 RefreshToken 관리 기능 구현.  
           AWS 기반 인프라 배포 및 운영 중이며, 반응형 디자인을 통해 모바일 최적화 완료.
 
