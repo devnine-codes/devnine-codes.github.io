@@ -203,6 +203,21 @@ content:
     content:
       - layout: left
         border: weak
+        title: DareZone<br>목표 인증 기반 커뮤니티 플랫폼(2025.03 ~ 현재)
+        link: https://darezone.kr
+        link_text: https://darezone.kr
+        quote: >
+          NestJS와 Next.js 기반의 1인 개발 사이드 프로젝트
+        description: |
+          **기술 스택**: NestJS, Next.js, PostgreSQL, Redis, Docker, AWS (EC2, S3), TypeScript
+
+          도전 목표를 생성하고 인증을 통해 성장 리워드를 획득하는 플랫폼.  
+          사용자 인증(P2P), 포인트 시스템, 커뮤니티 기능, 댓글, 좋아요/싫어요, 레벨업 등 다양한 기능 포함.  
+          백엔드와 프론트엔드를 모노레포 구조로 통합 관리하며, JWT 기반 인증 및 RefreshToken 관리 기능 구현.  
+          AWS 기반 인프라 배포 및 운영 중이며, 반응형 디자인을 통해 모바일 최적화 완료.
+
+      - layout: left
+        border: weak
         title: TubeSpot<br>개인화된 유튜브<br>
         link: https://github.com/devnine-codes/tube-spot
         link_text: https://github.com/devnine-codes/tube-spot
@@ -248,7 +263,7 @@ content:
         quote: >
           Java Backend 위주의 개발자로서 프리랜서 활동 중
         description: |
-          2024.12 ~ 2025.06 **현대카드/커머셜 OTP 인증시스템 재구축**
+          2024.12 ~ 2025.08 **현대카드/커머셜 OTP 인증시스템 재구축**
 
       - layout: left
         border: strong
