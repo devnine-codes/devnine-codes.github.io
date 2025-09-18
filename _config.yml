@@ -207,6 +207,20 @@ content:
     content:
       - layout: left
         border: weak
+        title: 너픽(NeoPick)<br>매일 새로운 주제가 열리는 토론 앱 (2025.08 ~ 현재)
+        link: https://devnine.co/neopick/index.html
+        link_text: https://devnine.co/neopick/index.html
+        quote: >
+          매일 아침 8시, 새로운 주제로 시작되는 토론 앱
+        description: |
+          **기술 스택**: Spring Boot, JWT, Flutter, AWS (EC2, S3, CloudFront, Docker)
+
+          매일 아침 8시에 새로운 토론 주제가 열리고, 이용자는 투표와 댓글을 통해 자유롭게 의견을 나눌 수 있는 토론 기반 앱.  
+          회원가입 없이 바로 참여할 수 있으며, 의견에 답글과 좋아요 기능을 제공하여 가볍지만 깊이 있는 토론 경험을 제공.  
+          레벨 및 랭킹 시스템을 통해 참여 동기를 부여하고, 푸시 알림으로 어제의 결과와 오늘의 토론을 안내.
+
+      - layout: left
+        border: weak
         title: FloatLand<br>글로벌 멀티플레이어 열기구 시뮬레이션 게임 (2025.07)
         link: https://floatland.devnine.co/
         link_text: https://floatland.devnine.co/
