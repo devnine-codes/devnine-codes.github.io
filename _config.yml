@@ -207,6 +207,33 @@ content:
     content:
       - layout: left
         border: weak
+        title: 하비몬(HABIMON)<br>가상 펫과 함께 만드는 글로벌 습관 앱 (2025.10 ~ 현재)
+        #link: https://devnine.co/habimon/index.html
+        #link_text: https://devnine.co/habimon/index.html
+        quote: >
+          타마고치 감성 + 습관 추적을 결합한 픽셀 펫 생산성 앱
+        description: |
+          **기술 스택**: Flutter(Dart), IOS(현재 IOS만 배포, 하비몬으로 검색 가능), Local DB(Hive/SQLite)
+
+          가상의 펫을 돌보며 실생활 습관을 형성하도록 설계한 글로벌 습관 앱.  
+          5단계 진화, 실시간 5스탯(배고픔·행복·건강·에너지·청결), 맞춤 습관/알림, 스트릭·업적·일일 챌린지(4개),  
+          상점·아이템(15종+), 2시간 랜덤 이벤트, 오프라인 자동저장, 다국어 지원 제공.
+
+          **핵심 가치**
+          - “습관 유지 = 펫의 행복/성장”이라는 감정 루프로 재방문(리텐션) 강화
+          - 레트로 픽셀 아트 미학 + 가벼운 게임화로 동기 부여 극대화
+
+          **담당 역할**
+          - 기획·디자인·개발 전 과정 1인 수행
+          - 스토어 로컬라이징(제목/부제/키워드/스크린샷) 및 초기 ASO 세팅
+          - 초기 사용자 피드백 기반 UX 개선 로드맵 수립
+
+          **성과/진행 현황**
+          - App Store 출시 및 초기 유입/피드백 수집 중
+          - 일본/브라질 타깃 확장 대비 다국어 메타데이터 및 스크린샷 운영 계획 수립
+          
+      - layout: left
+        border: weak
         title: 너픽(NeoPick)<br>매일 새로운 주제가 열리는 토론 앱 (2025.08 ~ 현재)
         link: https://devnine.co/neopick/index.html
         link_text: https://devnine.co/neopick/index.html
